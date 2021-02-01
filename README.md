@@ -11,4 +11,4 @@ Distance Learning - [Photochemistry CH30217](https://chemfd.github.io/Photochemi
 
 [CH10137 Thermodyanamics](https://chemfd.github.io/CH10137/)
 
-[CH30227/CH40227 Advanced Spectroscopic Techniques](https://chemfd.github.io/CH30227CH40227/)
+[CH30227/CH40227 Advanced Spectroscopic Techniques](https://chemfd.github.io/AOS/)
